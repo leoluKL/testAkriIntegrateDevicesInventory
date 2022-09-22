@@ -1,0 +1,8 @@
+**/target/
+**/obj
+**/bin
+**/cobertura.xml
+.idea
+*.pyc
+node_modules
+pki/*
